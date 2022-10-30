@@ -1,4 +1,4 @@
-# ANALYZING LEAD CONCENTRATION IN GROUNDWATER DATA ACROSS CA
+## ANALYZING LEAD CONCENTRATION IN GROUNDWATER DATA ACROSS CA
 ### We map the concentration of lead across CA counties and analyze which areas are most impacted. 
 ### Additionally, what are the socioeconomics and demographics associated with each area?
 
